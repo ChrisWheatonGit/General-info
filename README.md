@@ -14,9 +14,11 @@ This repository serves two goals:
 2. **Cybersecurity Mastery Framework**  
    Part of a 1-year intensive self-training program designed to prepare for high-level roles such as:
    - Cybersecurity Analyst  
-   - SOC Analyst  
-   - Threat Hunter  
-   - Security Engineer  
+   - SOC Analyst    
+   - Security Engineer
+   - Ethical Hacker
+   - Securtity Architect
+   - Chief Security Officer
 
 It includes certification roadmaps, technical labs, tool mastery, frameworks, and reference materials.
 
