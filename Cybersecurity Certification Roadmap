@@ -1,0 +1,57 @@
+# 🎓 Cybersecurity Certification Roadmap
+
+Welcome to the Cybersecurity Certification Roadmap repository — a structured guide to the most relevant and recognized certifications in the cybersecurity field.
+
+This roadmap is designed to support professionals at all levels, from beginners building foundational knowledge to advanced practitioners pursuing expert certifications in penetration testing, incident response, cloud security, and more.
+
+---
+
+## 📘 About This Repository
+
+This repository includes:
+- 📄 A detailed **PDF roadmap** outlining certifications from:
+  - CompTIA (Security+, CySA+, CASP+)
+  - ISC2 (CC, CISSP, CCSP)
+  - Cisco (CCNA, CCNP, CCIE Security)
+  - GIAC (GSEC, GCIH, GPEN, GCFA)
+  - OffSec (OSCP, OSWA, OSCE)
+  - TryHackMe & Hack The Box (practical learning paths)
+  - INE Security & Cybrary (training resources)
+- 🗂️ Breakdown of what each certification covers
+- 🧭 Guidance for career-oriented certification progression
+
+---
+
+## 📥 Included File
+
+- [`Cybersecurity Certification Roadmap.pdf`](./Cybersecurity%20Certification%20Roadmap.pdf)  
+  *(Click to download or view — full breakdown of certs, content areas, and skill levels)*
+
+---
+
+## 📈 Ideal Use Cases
+
+- Plan your personal certification journey  
+- Align certifications with your career goals (e.g., analyst → engineer → architect)  
+- Compare domains across certification bodies  
+- Supplement study with hands-on labs (TryHackMe, HTB, etc.)
+
+---
+
+## 💡 Coming Soon
+
+- Interactive visual roadmap (Markdown or SVG)  
+- Certification study guides per exam  
+- Skill-mapped project suggestions for each cert  
+- Lab environments and resources linked to each cert
+
+---
+
+## 🔗 Related Repositories
+
+- [Cybersecurity Mastery Hub](https://github.com/yourusername/Cybersecurity-Mastery)  
+- [Personal Cybersecurity Projects](https://github.com/yourusername/personal-cyber-projects)
+
+---
+
+> 🚀 Stay tuned for updates and expansions. This repository is actively maintained as part of my 1-year cybersecurity mastery initiative.
