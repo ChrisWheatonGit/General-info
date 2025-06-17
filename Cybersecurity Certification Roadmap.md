@@ -17,6 +17,7 @@ This repository includes:
   - OffSec (OSCP, OSWA, OSCE)
   - TryHackMe & Hack The Box (practical learning paths)
   - INE Security & Cybrary (training resources)
+  - ISACA (CISA, CISM, CCOA)
 - 🗂️ Breakdown of what each certification covers
 - 🧭 Guidance for career-oriented certification progression
 
@@ -25,6 +26,7 @@ This repository includes:
 ## 📥 Included File
 
 - [`Cybersecurity Certification Roadmap.pdf`]
+
   *(Click to download or view — full breakdown of certs, content areas, and skill levels)*
 
 ---
