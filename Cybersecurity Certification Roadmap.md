@@ -24,7 +24,7 @@ This repository includes:
 
 ## 📥 Included File
 
-- [`Cybersecurity Certification Roadmap.pdf`](./Cybersecurity%20Certification%20Roadmap.pdf)  
+- [`Cybersecurity Certification Roadmap.pdf`](.file:///C:/Users/chris/Downloads/Cybersecurity%20Certification%20Roadmap.pdf)  
   *(Click to download or view — full breakdown of certs, content areas, and skill levels)*
 
 ---
@@ -55,5 +55,3 @@ This repository includes:
 ---
 
 > 🚀 Stay tuned for updates and expansions. This repository is actively maintained as part of my 1-year cybersecurity mastery initiative.
-
-Add certification roadmap PDF
