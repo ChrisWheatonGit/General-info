@@ -12,15 +12,12 @@ Here you’ll find:
 
 ### 🔐 Cybersecurity Mastery Repository
 A massive year-long initiative designed to teach and document every facet of cybersecurity:
-- Over 250+ cybersecurity terms and definitions
+- Hundreds of cybersecurity terms and definitions
 - Certification roadmaps and study resources 
 - Hands-on labs with home lab documentation
 - Visual aids: MITRE ATT&CK, SOC flows, incident response diagrams
 - SIEM and threat detection walkthroughs
 
-🔗 [View Repository](https://github.com/yourusername/Cybersecurity-Mastery)
-
----
 
 ### 💻 Personal Cybersecurity Projects
 A collection of technical projects I’ve created to reinforce hands-on skills and demonstrate real-world knowledge in:
@@ -30,17 +27,12 @@ A collection of technical projects I’ve created to reinforce hands-on skills a
 - Packet capture & forensic analysis
 - Red team & blue team tactics
 
-🔗 [View Repository](https://github.com/yourusername/personal-cyber-projects)
-
----
-
 ### 📊 Data Analytics & Python Projects *(Coming Soon)*
 Projects combining data analysis, scripting, and real-world data sets:
 - Security-focused data exploration
 - Log correlation and visualization
 - Risk modeling
 
----
 
 ### 📚 Study Guides & Notes
 Markdown notes and study guides on certifications, systems, tools, and IT fundamentals:
@@ -48,7 +40,6 @@ Markdown notes and study guides on certifications, systems, tools, and IT fundam
 - Cloud security notes (AWS, Azure)
 - Systems design and scripting tutorials
 
----
 
 ## 🛠️ Core Tools & Technologies
 - Python, Bash, PowerShell
@@ -57,7 +48,6 @@ Markdown notes and study guides on certifications, systems, tools, and IT fundam
 - Sigma, MITRE ATT&CK, YARA
 - VirtualBox, Kali Linux, Windows VM labs
 
----
 
 ## 📈 Career Goals
 
@@ -65,16 +55,8 @@ Markdown notes and study guides on certifications, systems, tools, and IT fundam
 - Build an open-source portfolio for job readiness
 - Obtain multiple industry-recognized certifications
 - Land a role as a Cybersecurity Analyst, SOC Analyst, or Security Engineer
-- Eventually specialize in threat hunting, automation, or adversary emulation
+- Scale my skills and knowledge to lead a cybersecurity team or open my own company
 
----
-
-## 📬 Let’s Connect
-
-📫 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-🧠 [Main Cybersecurity Learning Hub](https://github.com/yourusername/Cybersecurity-Mastery)
-
----
 
 > 🚀 This profile and its content are actively evolving. I regularly update projects, resources, and documentation as I progress. Your feedback, collaboration, and support are always welcome!
 
