@@ -1,4 +1,4 @@
-# 🌐 Chris Wheaton – Cybersecurity & IT Mastery Projects
+# 🌐 Cybersecurity & IT Mastery Projects
 
 Welcome to my GitHub. This is the central hub for everything I'm building, learning, and sharing on my journey toward becoming a cybersecurity professional with a strong foundation in information technology (IT), information systems, data analytics, scripting, and automation.
 
@@ -35,8 +35,6 @@ Projects and exercises that demonstrate IT fundamentals and systems knowledge:
 - Windows Server administration  
 - OSI/TCP-IP protocol walkthroughs and lab notes  
 - Automation and monitoring tools configuration  
-
-🔗 [Coming Soon: IT Lab Repository](https://github.com/yourusername/it-labs)
 
 
 ### 📚 Study Guides & Certification Notes
